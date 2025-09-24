@@ -1,3 +1,4 @@
 from django.shortcuts import render
 
-# Create your views here.
+def slot(request):
+    return render(request, "slot.html")
