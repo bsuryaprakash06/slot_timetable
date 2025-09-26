@@ -29,65 +29,103 @@ Execute the program using runserver command.
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Table of Contents</title>
+  <title>Time Table: B Surya Prakash</title>
 </head>
-<body>
-  <center>
+<body align="center">
   <img src="/static/logo.png" alt="description" width="700" height="100">
-  </center>
-  <center>
-  <table border="1" style="width:80%" height="90%">
-    <caption><h1>My TimeTable</h1></caption>
-    <tr>
-      <th>Time</th>
+
+  <table border="1" align="center" bgcolor="#f2f2f2">
+    <caption><b>Time Table -  B Surya Prakash</b></caption>
+    <tr bgcolor="#4CAF50" style="color:white;">
+      <th>Day/Time</th>
       <th>8-10</th>
       <th>10-12</th>
       <th>1-3</th>
       <th>3-5</th>
     </tr>
     <tr>
-      <th>Monday</th>
-      <td>BEEE</td>
-      <td>ML</td>
-      <td>WEB</td>
-      <td>SE</td>
+      <th bgcolor="#e0e0e0">Monday</th>
+      <td>FREE SLOT</td>
+      <td>GER</td>
+      <td>FREE SLOT</td>
+      <td>FREE SLOT</td>
     </tr>
-    <tr>
+    <tr bgcolor="#f9f9f9">
       <th>Tuesday</th>
-      <td>Maths</td>
-      <td>Adv C</td>
-      <td>BEEE</td>
-      <td>— No Class —</td>
+      <td>GER</td>
+      <td>FREE SLOT</td>
+      <td>MAT</td>
+      <td>FREE SLOT</td>
     </tr>
     <tr>
-      <th>Wednesday</th>
-      <td>— No Class —</td>
-      <td>Web</td>
-      <td>— Mentor Meet —</td>
-      <td>QA</td>
+      <th bgcolor="#e0e0e0">Wednesday</th>
+      <td>PHY</td>
+      <td>FREE SLOT</td>
+      <td>FWAD</td>
+      <td>GER</td>
     </tr>
-    <tr>
+    <tr bgcolor="#f9f9f9">
       <th>Thursday</th>
-      <td>ML</td>
-      <td>Maths</td>
-      <td>HRM</td>
-      <td>SE</td>
+      <td>PHY</td>
+      <td>FWAD</td>
+      <td>FWAD</td>
+      <td>CHE</td>
     </tr>
     <tr>
-      <th>Friday</th>
-      <td>Adv C</td>
-      <td>— No Class —</td>
-      <td>HRM</td>
-      <td>— No Class —</td>
+      <th bgcolor="#e0e0e0">Friday</th>
+      <td>CHE</td>
+      <td>FWAD</td>
+      <td>SS</td>
+      <td>GER</td>
     </tr>
-    </center>
+  </table>
+
+  <table border="1" align="center" bgcolor="#f2f2f2">
+    <caption><b>Subject Codes</b></caption>
+    <tr bgcolor="#4CAF50" style="color:white;">
+      <th>S. No.</th>
+      <th>Subject Code</th>
+      <th>Subject Name</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>19AI414</td>
+      <td>Fundamentals of Web Application Development (FWAD)</td>
+    </tr>
+    <tr bgcolor="#f9f9f9">
+      <td>2</td>
+      <td>19EN612</td>
+      <td>German Basic (GER)</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>19PH206</td>
+      <td>Physics for Information Technology (PHY)</td>
+    </tr>
+    <tr bgcolor="#f9f9f9">
+      <td>4</td>
+      <td>19CY205</td>
+      <td>Principles of Chemistry in Engineering (CHE)</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>19MA201</td>
+      <td>Calculus and Matrix Algebra (MAT)</td>
+    </tr>
+    <tr bgcolor="#f9f9f9">
+      <td>6</td>
+      <td>19ET701</td>
+      <td>Soft Skills (SS)</td>
+    </tr>
   </table>
 </body>
 </html>
+
 ```
 
 ## OUTPUT
-<img width="1919" height="1145" alt="Static" src="https://github.com/user-attachments/assets/abc6ecab-be05-4801-b4c9-a215cd0afe85" />
+<img width="1919" height="1102" alt="image" src="https://github.com/user-attachments/assets/6919bf48-dd95-4575-84a6-93a6266d98a9" />
+
 
 
 ## RESULT
